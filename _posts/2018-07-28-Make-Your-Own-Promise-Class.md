@@ -2,7 +2,7 @@
 layout: post
 title: Make Your Own Promise Object In Javascript
 description: A tutorial on how to make a Promise Object
-img: Javascript-logo.png
+img: JavaScript-logo.png
 tags: ["javascript", "js", "promise", "promises", "callback", "async"]
 --- 
 
