@@ -126,7 +126,7 @@ This is a lot easier to follow. My favorite is what's next:
 var showAllAsync = function(){
     return new Promise(function(resolve, reject) {
         mongoClient.connect(function(err, client) {
-            var db = client.db("asnychronous_tutorial");
+            var db = client.db("async_tutorial");
             
             db.collection("people").find().toArray(function(err, people) {
 
